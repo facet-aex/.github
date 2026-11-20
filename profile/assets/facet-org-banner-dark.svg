@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="FACET — Federated Agent Capability Exchange &amp; Trust">
+  <title>FACET — Federated Agent Capability Exchange &amp; Trust</title>
+  <rect width="1280" height="320" fill="#050505"/>
+
+  <!-- Subtle architectural grid -->
+  <g stroke="#161616" stroke-width="1">
+    <line x1="64" y1="0" x2="64" y2="240"/>
+    <line x1="320" y1="240" x2="320" y2="320"/>
+    <line x1="720" y1="0" x2="720" y2="240"/>
+    <line x1="996" y1="0" x2="996" y2="240"/>
+    <line x1="1216" y1="0" x2="1216" y2="240"/>
+    <line x1="0" y1="48" x2="1280" y2="48"/>
+  </g>
+  <line x1="0" y1="240" x2="1280" y2="240" stroke="#262626" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" fill="none" stroke="#343434" stroke-width="1"/>
+
+  <!-- Eyebrow -->
+  <rect x="64" y="67" width="8" height="8" fill="#DFFF4F"/>
+  <text x="84" y="75" fill="#A8A8A1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.4">FEDERATED AGENT CAPABILITY EXCHANGE &amp; TRUST</text>
+
+  <!-- Official Open Gateway mark + FACET wordmark (from web/public/4.svg) -->
+  <g transform="translate(-27.6875, -113.7575) scale(0.36)">
+    <path fill="#F4F4EF" d="M 254.6875 610.4375 L 533.757812 610.4375 L 533.757812 677.621094 L 321.871094 677.621094 L 321.871094 822.324219 L 533.757812 822.324219 L 533.757812 889.507812 L 254.6875 889.507812 Z M 254.6875 610.4375 " fill-opacity="1" fill-rule="nonzero"/>
+    <path fill="#DFFF4F" d="M 375.273438 716.382812 L 533.757812 716.382812 L 533.757812 783.566406 L 375.273438 783.566406 Z M 375.273438 716.382812 " fill-opacity="1" fill-rule="nonzero"/>
+    <g fill="#F4F4EF" fill-opacity="1">
+      <g transform="translate(618.771434, 829.499909)">
+        <path d="M 13.859375 0 L 13.859375 -160.0625 L 120.53125 -160.0625 L 120.53125 -132.5625 L 46.734375 -132.5625 L 46.734375 -89.046875 L 113.875 -89.046875 L 113.875 -62.203125 L 46.734375 -62.203125 L 46.734375 0 Z M 13.859375 0 "/>
+      </g>
+    </g>
+    <g fill="#F4F4EF" fill-opacity="1">
+      <g transform="translate(727.695958, 829.499909)">
+        <path d="M 4.296875 0 L 59.40625 -160.0625 L 102.15625 -160.0625 L 158.34375 0 L 121.8125 0 L 96.25 -77.34375 C 93.164062 -87.375 90.03125 -98.207031 86.84375 -109.84375 C 83.664062 -121.476562 80.285156 -134.28125 76.703125 -148.25 L 84.21875 -148.25 C 80.707031 -134.28125 77.445312 -121.441406 74.4375 -109.734375 C 71.4375 -98.023438 68.429688 -87.226562 65.421875 -77.34375 L 40.390625 0 Z M 38.78125 -36.625 L 38.78125 -62.515625 L 123.859375 -62.515625 L 123.859375 -36.625 Z M 38.78125 -36.625 "/>
+      </g>
+    </g>
+    <g fill="#F4F4EF" fill-opacity="1">
+      <g transform="translate(881.200043, 829.499909)">
+        <path d="M 84 2.25 C 69.75 2.25 56.984375 -1.003906 45.703125 -7.515625 C 34.429688 -14.035156 25.550781 -23.414062 19.0625 -35.65625 C 12.582031 -47.90625 9.34375 -62.660156 9.34375 -79.921875 C 9.34375 -97.253906 12.597656 -112.0625 19.109375 -124.34375 C 25.628906 -136.625 34.546875 -146.019531 45.859375 -152.53125 C 57.179688 -159.050781 69.894531 -162.3125 84 -162.3125 C 93.164062 -162.3125 101.707031 -161.019531 109.625 -158.4375 C 117.539062 -155.863281 124.539062 -152.101562 130.625 -147.15625 C 136.707031 -142.21875 141.703125 -136.203125 145.609375 -129.109375 C 149.515625 -122.023438 152.078125 -113.972656 153.296875 -104.953125 L 120.09375 -104.953125 C 119.3125 -109.390625 117.878906 -113.363281 115.796875 -116.875 C 113.722656 -120.382812 111.144531 -123.351562 108.0625 -125.78125 C 104.988281 -128.21875 101.476562 -130.0625 97.53125 -131.3125 C 93.59375 -132.570312 89.300781 -133.203125 84.65625 -133.203125 C 76.195312 -133.203125 68.796875 -131.085938 62.453125 -126.859375 C 56.117188 -122.640625 51.234375 -116.570312 47.796875 -108.65625 C 44.359375 -100.738281 42.640625 -91.160156 42.640625 -79.921875 C 42.640625 -68.535156 44.375 -58.882812 47.84375 -50.96875 C 51.320312 -43.0625 56.210938 -37.066406 62.515625 -32.984375 C 68.816406 -28.898438 76.195312 -26.859375 84.65625 -26.859375 C 89.238281 -26.859375 93.5 -27.5 97.4375 -28.78125 C 101.375 -30.070312 104.898438 -31.914062 108.015625 -34.3125 C 111.128906 -36.71875 113.722656 -39.675781 115.796875 -43.1875 C 117.878906 -46.695312 119.347656 -50.671875 120.203125 -55.109375 L 153.40625 -55.109375 C 152.394531 -47.304688 150.082031 -39.96875 146.46875 -33.09375 C 142.851562 -26.21875 138.054688 -20.109375 132.078125 -14.765625 C 126.097656 -9.429688 119.078125 -5.257812 111.015625 -2.25 C 102.960938 0.75 93.957031 2.25 84 2.25 Z M 84 2.25 "/>
+      </g>
+    </g>
+    <g fill="#F4F4EF" fill-opacity="1">
+      <g transform="translate(1043.297761, 829.499909)">
+        <path d="M 13.859375 0 L 13.859375 -160.0625 L 122.78125 -160.0625 L 122.78125 -132.5625 L 46.734375 -132.5625 L 46.734375 -94.3125 L 116.984375 -94.3125 L 116.984375 -67.359375 L 46.734375 -67.359375 L 46.734375 -27.5 L 122.890625 -27.5 L 122.890625 0 Z M 13.859375 0 "/>
+      </g>
+      <g transform="translate(1176.92904, 829.499909)">
+        <path d="M 7.3125 -132.5625 L 7.3125 -160.0625 L 137.9375 -160.0625 L 137.9375 -132.5625 L 89.15625 -132.5625 L 89.15625 0 L 56.296875 0 L 56.296875 -132.5625 Z M 7.3125 -132.5625 "/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right-side sparse capability constellation -->
+  <g stroke="#262626" stroke-width="1">
+    <line x1="780" y1="92" x2="828" y2="128"/>
+    <line x1="828" y1="128" x2="860" y2="178"/>
+    <line x1="828" y1="128" x2="964" y2="72"/>
+    <line x1="964" y1="72" x2="996" y2="124"/>
+    <line x1="860" y1="178" x2="996" y2="124"/>
+    <line x1="996" y1="124" x2="1048" y2="168"/>
+    <line x1="996" y1="124" x2="1132" y2="82"/>
+    <line x1="1048" y1="168" x2="1188" y2="138"/>
+    <line x1="1132" y1="82" x2="1188" y2="138"/>
+    <line x1="964" y1="72" x2="1132" y2="82"/>
+  </g>
+  <rect x="778" y="90" width="4" height="4" fill="#52524E"/>
+  <rect x="857" y="175" width="6" height="6" fill="#F4F4EF"/>
+  <rect x="962" y="70" width="4" height="4" fill="#52524E"/>
+  <rect x="1045" y="165" width="6" height="6" fill="#F4F4EF"/>
+  <rect x="1186" y="136" width="4" height="4" fill="#52524E"/>
+
+  <rect x="824" y="124" width="8" height="8" fill="#DFFF4F"/>
+  <text x="838" y="132" fill="#A8A8A1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4">API</text>
+
+  <rect x="992" y="120" width="8" height="8" fill="#DFFF4F"/>
+  <text x="1006" y="128" fill="#A8A8A1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4">ACTOR</text>
+
+  <rect x="1128" y="78" width="8" height="8" fill="#DFFF4F"/>
+  <text x="1142" y="86" fill="#A8A8A1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4">AGENT</text>
+
+  <!-- Bottom status bar -->
+  <text x="64" y="285" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.8">
+    <tspan fill="#F4F4EF">API</tspan>
+    <tspan fill="#DFFF4F"> · </tspan>
+    <tspan fill="#F4F4EF">ACTOR</tspan>
+    <tspan fill="#DFFF4F"> · </tspan>
+    <tspan fill="#F4F4EF">AGENT</tspan>
+  </text>
+  <text x="320" y="285" fill="#A8A8A1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.6">AVALANCHE  /  X402  /  ERC-8004  /  MCP</text>
+  <rect x="996" y="264" width="220" height="32" rx="0" fill="#DFFF4F"/>
+  <text x="1106" y="284" text-anchor="middle" fill="#050505" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" font-size="12" letter-spacing="1.2">FACET.BRIANDEV.SPACE ↗</text>
+</svg>
